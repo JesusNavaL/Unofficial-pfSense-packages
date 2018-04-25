@@ -16,11 +16,11 @@ You can enable unoffical repo creating or downloading the file below:
 AMD64
 pfSense 2.3 amd64:
 
-```fetch -q -o /usr/local/etc/pkg/repos/Unofficial.conf https://raw.githubusercontent.com/marcelloc/Unofficial-pfSense-packages/master/Unofficial.conf```
+```fetch -q -o /usr/local/etc/pkg/repos/Unofficial.conf https://raw.githubusercontent.com/JesusNavaL/Unofficial-pfSense-packages/master/Unofficial.conf```
 
 pfSense 2.4 amd64:
 
-```fetch -q -o /usr/local/etc/pkg/repos/Unofficial.conf https://raw.githubusercontent.com/marcelloc/Unofficial-pfSense-packages/master/Unofficial.24.conf```
+```fetch -q -o /usr/local/etc/pkg/repos/Unofficial.conf https://raw.githubusercontent.com/JesusNavaL/Unofficial-pfSense-packages/master/Unofficial.24.conf```
 
 
 pfSense 2.3 x86:
